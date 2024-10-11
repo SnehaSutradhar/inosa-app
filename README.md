@@ -1,2 +1,2 @@
 # inosa-app
-Freelancing Projects 
+Freelancing Project 
